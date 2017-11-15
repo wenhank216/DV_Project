@@ -5,3 +5,4 @@ IS 590 project
 
  - My first commit (Edmond)
  - This is written by Alice
+ - this is dale
