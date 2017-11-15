@@ -4,3 +4,4 @@ IS 590 project
  - Group Member: Alice Chen, Wenhan Kong, Edmond Lai, Tee-Yao Lee
 
  - My first commit (Edmond)
+ - This is written by Alice
