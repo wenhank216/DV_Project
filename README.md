@@ -7,3 +7,4 @@ IS 590 project
  - This is written by Alice
  - this is dale
  - this is Dale again
+ - test git commit
