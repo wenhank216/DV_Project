@@ -4,4 +4,12 @@ IS 590 project
  - Group Member: Alice Chen, Wenhan Kong, Edmond Lai, Tee-Yao Lee
 
 Component 1 and Component 2:
+
 [HERE](https://github.com/wenhank216/DV_Project/blob/master/Component1_combine%20(2).ipynb)
+
+Component 3:
+
+[HERE](https://github.com/wenhank216/DV_Project/blob/master/Component%203_Final.ipynb)
+
+Component 4:
+[HERE](https://github.com/wenhank216/DV_Project/blob/master/Infographic.pdf)
