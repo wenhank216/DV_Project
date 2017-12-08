@@ -1,7 +1,7 @@
 # DV_Project
 IS 590 project
  - This is a group project for IS 590 final project
- - Group Member: Alice Chen, Wenhan Kong(wenhank2@illinois.edu), Edmond Lai, Tee-Yao Lee
+ - Group Member: Alice Chen, Wenhan Kong(wenhank2@illinois.edu), Edmond Lai, Tee-Yao Lee(teyaoyl2@illinois.edu)
  - All the files and data needed are in project_final folder
 
 Component 1 and Component 2:
