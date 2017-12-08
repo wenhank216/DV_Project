@@ -2,6 +2,7 @@
 IS 590 project
  - This is a group project for IS 590 final project
  - Group Member: Alice Chen(ychen438@illinois.edu), Wenhan Kong(wenhank2@illinois.edu), Edmond Lai(elai4@illinois.edu), Tee-Yao Lee(teyaoyl2@illinois.edu)
+ - Group Name: LKCL Group
  - All the files and data needed are in project_final folder
 
 Component 1 and Component 2:
