@@ -14,3 +14,7 @@ Component 3:
 Component 4:
 
 [HERE](https://github.com/wenhank216/DV_Project/blob/master/Infographic.pdf)
+
+Write up:
+
+[HERE](https://github.com/wenhank216/DV_Project/blob/master/Final_WriteUp.ipynb)
