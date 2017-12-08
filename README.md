@@ -3,8 +3,5 @@ IS 590 project
  - This is a group project for IS 590 final project
  - Group Member: Alice Chen, Wenhan Kong, Edmond Lai, Tee-Yao Lee
 
- - My first commit (Edmond)
- - This is written by Alice
- - this is dale
- - this is Dale again
- - test git commit
+Component 1 and Component 2:
+[HERE](https://github.com/wenhank216/DV_Project/blob/master/Component1_combine%20(2).ipynb)
