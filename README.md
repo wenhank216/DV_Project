@@ -18,3 +18,6 @@ Component 4:
 Write up:
 
 [HERE](https://github.com/wenhank216/DV_Project/blob/master/Final_WriteUp.ipynb)
+
+
+[Video Link](https://mediaspace.illinois.edu/media/t/1_rsd2bkkv)
