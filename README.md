@@ -10,6 +10,7 @@ Component 1 and Component 2:
 Component 3:
 
 [HERE](https://github.com/wenhank216/DV_Project/blob/master/Component%203_Final.ipynb)
+
 If you don't run component 3 in local, please make sure upload state_info.txt file to the same location as component3_FInal.ipyynb.
 
 Component 4:
